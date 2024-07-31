@@ -1,5 +1,10 @@
 {
   "mods": [
-    "none"
+    "https://github.com/armoiredu44/launcher-FFMC/raw/main/mandatory-mods/BiomesOPlenty-1.20.1-18.0.0.598.jar",
+    "https://github.com/armoiredu44/launcher-FFMC/raw/main/mandatory-mods/DungeonsArise-1.20.1-2.1.57-release.jar",
+    "https://github.com/armoiredu44/launcher-FFMC/raw/main/mandatory-mods/Mekanism-1.20.1-10.4.6.20.jar",
+    "https://github.com/armoiredu44/launcher-FFMC/raw/main/mandatory-mods/MekanismAdditions-1.20.1-10.4.6.20.jar",
+    "https://github.com/armoiredu44/launcher-FFMC/raw/main/mandatory-mods/MekanismGenerators-1.20.1-10.4.6.20.jar",
+    "https://github.com/armoiredu44/launcher-FFMC/raw/main/mandatory-mods/MekanismTools-1.20.1-10.4.6.20.jar"
   ]
 }
